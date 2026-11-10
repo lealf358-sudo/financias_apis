@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "descricao": "Salário",
+        "valor": 2500,
+        "data": "2026-11-01",
+        "tipo": "receita",
+        "categoria": 1
+    },
+    {
+        "id": 2,
+        "descricao": "Conta de luz",
+        "valor": 150,
+        "data": "2026-11-05",
+        "tipo": "despesa",
+        "categoria": 2
+    }
+]
