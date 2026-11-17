@@ -225,8 +225,8 @@ O PHPUnit apresenta o resultado dos testes, indicando quais passaram e quais apr
 
 Imagens:
 
-<img src="financias/imagens/teste1.png" alt="Texto Alternativo" width="300">
-<img src="financias/imagens/teste2.png" alt="Texto Alternativo" width="300">
+<img src="imagens/teste1.png" alt="Texto Alternativo" width="300">
+<img src="imagens/teste2.png" alt="Texto Alternativo" width="300">
 
 ## 11. Armazenamento dos dados
 
