@@ -223,6 +223,11 @@ Para executar os testes, utilize:
 
 O PHPUnit apresenta o resultado dos testes, indicando quais passaram e quais apresentaram falhas.
 
+Imagens:
+
+<img src="financias/imagens/teste1.png" alt="Texto Alternativo" width="300">
+<img src="financias/imagens/teste2.png" alt="Texto Alternativo" width="300">
+
 ## 11. Armazenamento dos dados
 
 As informações são armazenadas em arquivos JSON dentro da pasta `storage`. Dessa forma, os dados permanecem salvos mesmo após o encerramento do servidor local.
