@@ -4,7 +4,7 @@
 use PHPUnit\Framework\TestCase;
 use Slim\Psr7\Factory\ServerRequestFactory;
 
-class FinanciasTeste extends TestCase
+class FinanciasTest extends TestCase
 {
     private static $app;
     private static $dadosOriginais = [];
